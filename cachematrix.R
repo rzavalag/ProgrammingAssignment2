@@ -45,7 +45,3 @@ cacheSolve <- function(x, ...) {
 
 
 
-
-cachemean <- function(x, ...) {
-  
-}
